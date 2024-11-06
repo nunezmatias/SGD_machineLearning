@@ -1,4 +1,5 @@
 # SGD_machineLearning
-Notebook for parts of   "Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals" García-Rodríguez et al, https://arxiv.org/abs/2409.12427
+Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nunezmatias/SGD_machineLearning/blob/main/SusteinableVisions.ipynb)
+ for parts of   "Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals" García-Rodríguez et al, https://arxiv.org/abs/2409.12427
 
 
