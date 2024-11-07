@@ -3,9 +3,9 @@
 
  Notebook with methodology for   dimensional reduction and clustering, and intearctive plots   for   "Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals", García-Rodríguez et al, https://arxiv.org/abs/2409.12427
 
-## Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
+# Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
 
-# Alberto García-Rodríguez, Matias Núñez, Miguel Robles Pérez, Tzipe Govezensky, Rafael A. Barrio, Carlos Gershenson, Kimmo K. Kaski, Julia Tagüeña
+Alberto García-Rodríguez, Matias Núñez, Miguel Robles Pérez, Tzipe Govezensky, Rafael A. Barrio, Carlos Gershenson, Kimmo K. Kaski, Julia Tagüeña
 
 The United Nations 2030 Agenda for Sustainable Development outlines 17 goals to address global challenges. However, progress has been slower than expected and, consequently, there is a need to investigate the reasons behind this fact. In this study, we used a novel data-driven methodology to analyze data from 107 countries (2000−2022) using unsupervised machine learning techniques. Our analysis reveals strong positive and negative correlations between certain SDGs. The findings show that progress toward the SDGs is heavily influenced by geographical, cultural and socioeconomic factors, with no country on track to achieve all goals by 2030. This highlights the need for a region specific, systemic approach to sustainable development that acknowledges the complex interdependencies of the goals and the diverse capacities of nations. Our approach provides a robust framework for developing efficient and data-informed strategies, to promote cooperative and targeted initiatives for sustainable progress.
 
