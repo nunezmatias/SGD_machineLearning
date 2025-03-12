@@ -3,7 +3,7 @@
 
  Notebook with Unsupervised Machine Learning methodology for     "Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals", García-Rodríguez et al, https://arxiv.org/abs/2409.12427
 
-Peer reviewd published version https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317412 
+Peer reviewed published version https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317412 
 
 # Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
 
