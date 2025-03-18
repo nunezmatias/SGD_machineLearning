@@ -1,7 +1,9 @@
 # SGD_machineLearning
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nunezmatias/SGD_machineLearning/blob/main/SusteinableVisions.ipynb)
 
- Notebook with data and machine learning  methodology by Dr. Nuñez for #  Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
+ Notebook with data and machine learning  methodology by Dr. Nuñez for 
+ 
+ ## Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
  
  [Peer reviewed paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317412) 
 
