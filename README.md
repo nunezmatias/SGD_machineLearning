@@ -2,7 +2,7 @@
  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nunezmatias/SGD_machineLearning/blob/main/SusteinableVisions.ipynb)
 
- Notebook with data and machine learning  methodology by Dr. Nuñez for 
+ Notebook with data and machine learning analysis fully performed  by Dr. Matias Nuñez for 
  
 
  
