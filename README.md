@@ -1,5 +1,7 @@
 
- Notebook with data and machine learning analysis fully performed  by Dr. Matias Nuñez for 
+ Notebook with data and machine learning analysis fully performed  by 
+ ##  Dr. Matias Nuñez f
+ or 
  
  
  # Sustainable Visions: Unsupervised Machine Learning Insights on Global Development Goals
